@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "chanfana-openapi-cloudflare-metadevelop",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "openapi-cloudflare-db",
+			"database_id": "de252903-9b19-4a99-8944-dc36acef7258"
+		}
+	]
+}
