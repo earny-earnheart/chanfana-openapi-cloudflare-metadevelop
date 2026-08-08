@@ -1,7 +1,7 @@
 {
 	"compatibility_date": "2025-10-08",
 	"main": "src/index.ts",
-	"name": "chanfana-openapi-cloudflare-metadevelop",
+	"name": "cloudflare-workers-proofstream",
 	"upload_source_maps": true,
 	"observability": {
 		"enabled": true
